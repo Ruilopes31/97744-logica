@@ -2,16 +2,25 @@ import os
 
 os.system("clear")
 
-# solicita um valor ao usuario
+#solicita dois numeros do usuario
 
-numero = int(input("digite um número:"))
+num1= float(input("digite o primeiro número:"))
+num2 = float(input("digite o segundo número:"))
 
-#verifica se e maior que 10, menor ou igual
+#calcule os resultados
+media =(num1+num2)/ 2
+soma =num1+num2
+produto =num1*num2
+menor = min(num1, num2)
+maior = max(num1, num2)
 
-if numero > 10:
-    print(" é maior que 10!")
-if numero= 10:
-    print("o numero e igual a 10 ")
-if numero = < 10:
-    print(" é menor que 10")
-    
+
+#exibir na tela os resultados
+print(" média :",media)
+print("soma:", soma)
+print("produto:", produto)
+print("menor:", menor)
+print("maior:", maior)
+
+
+
