@@ -1,0 +1,3 @@
+rui,leonardo,terror,210 
+terror2,camila,suspense,50 
+carine,mauricio,romance,70 

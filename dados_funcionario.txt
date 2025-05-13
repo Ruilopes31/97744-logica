@@ -1,0 +1,3 @@
+rui,31\03\2011,0000000,rua lula 
+camila,20\2\2010,0000444,rua bolsanro 
+carine,11\6\1998,755555,rua cari 
