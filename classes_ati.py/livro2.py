@@ -14,5 +14,5 @@ class livro:
 QUANTIDADE_LIVRO = 3
 lista_livro= []
 
-print("catalogo_livros.txt")
 for i in range(QUANTIDADE_LIVRO):
+    print("")
