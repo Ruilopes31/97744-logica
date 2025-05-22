@@ -1,3 +1,6 @@
 rui,31\03\2011,0000000,rua lula 
 camila,20\2\2010,0000444,rua bolsanro 
 carine,11\6\1998,755555,rua cari 
+rui,31.032007,000007,rua lula 
+amandinha,31.02.2007,000004,rui bolsa 
+camila,31.4.2000,000078,rua bozo 
